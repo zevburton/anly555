@@ -1,2 +1,2 @@
 # anly555
-Submissions for ANLY555: Data Structures, Objects and Algorythms
+Submissions for ANLY555: Data Structures, Objects and Algorithms
